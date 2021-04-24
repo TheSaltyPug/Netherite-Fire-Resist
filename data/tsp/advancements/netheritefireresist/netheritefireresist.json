@@ -1,0 +1,17 @@
+{
+     "criteria": {
+          "trigger": {
+               "trigger": "minecraft:tick"
+          }
+     },
+     "display": {
+          "announce_to_chat": false,
+          "description": "Wearing a full set of Netherite will give Fire Resistance for 5 seconds",
+          "icon": {
+               "item": "minecraft:netherite_helmet"
+          },
+          "show_toast": false,
+          "title": "Netherite Fire Resist"
+     },
+     "parent": "global:tsp"
+}
